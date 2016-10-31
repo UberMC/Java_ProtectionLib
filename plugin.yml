@@ -1,0 +1,5 @@
+name: UberProtectionLib
+main: me.ubermc.Main.UberProtectionLib
+version: 0.1
+description: >
+             UberProtectionLib plugin
